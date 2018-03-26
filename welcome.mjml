@@ -1,0 +1,110 @@
+<mjml>
+  <mj-body>
+    <mj-container background-color="#d6dde5">
+      <mj-section locked="true" padding-bottom="20" padding-top="20">
+        <mj-column width="66.66666666666666%" vertical-align="middle">
+          <mj-text align="left" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="11" locked="true" editable="true" padding-left="25" padding-right="25" padding-bottom="0" padding-top="0">
+            <span style="font-size: 11px">[[HEADLINE]]</span>
+          </mj-text>
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="middle">
+          <mj-text align="right" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="11" locked="true" editable="false" padding-left="25" padding-right="25" padding-bottom="0" padding-top="0">
+            <span style="font-size: 11px"><a href="https://mjml.io" style="text-decoration: none; color: inherit;">[[PERMALINK_LABEL]]</a></span>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-bottom="20" padding-top="20">
+        <mj-column width="100%" vertical-align="top">
+          <mj-image href="https://mjml.io" src="https://image.ibb.co/k5yCc7/image.png" alt="KERT LOGO" align="center" border="none" width="350" padding-left="0" padding-right="0" padding-bottom="0" padding-top="0">
+
+          </mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" background-url="http://191n.mj.am/img/191n/3s/xm6.jpg" padding-bottom="27" padding-top="0">
+        <mj-column width="100%" vertical-align="top">
+          <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13" padding-left="25" padding-right="25" padding-bottom="0" padding-top="0">
+            <p><span style="font-size: 16px;"><a href="https://mjml.io" style="text-decoration: none; color: inherit;"><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255);">Home</span></span>
+              </a><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255);"> / </span></span><a href="https://mjml.io" style="text-decoration: none; color: inherit;"><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255);">blog</span></span></a></span>
+            </p>
+            <p><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255);"><span style="font-size: 16px;"><br></span></span>
+              </span>
+            </p>
+            <p><span style="font-size: 27px;"><a href="https://mjml.io" style="text-decoration: none; color: inherit;"><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255);">Welcome to</span></span>
+              </a>
+              </span>
+            </p>
+            <p><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255);"><span style="font-size: 27px;">KERT</span></span>
+              </span>
+            </p>
+            <p><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255);"><span style="font-size: 27px;">Get on Hacking</span></span>
+              </span>
+            </p>
+          </mj-text>
+          <mj-button background-color="#414141" color="#FFFFFF" font-size="15px" align="center" vertical-align="middle" border="none" padding="15px 30px" border-radius="3px" href="https://mjml.io" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+            padding-left="25" padding-right="25" padding-bottom="10" padding-top="70">
+            Visit Home
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-bottom="20" padding-top="20">
+        <mj-column width="25%" vertical-align="top">
+
+        </mj-column>
+        <mj-column width="50%" vertical-align="top">
+          <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13" padding-left="25" padding-right="25" padding-bottom="" padding-top="0">
+            <p><span style="color: rgb(106, 138, 162);"><span style="font-weight: bold;"><span style="font-size: 17px;">회원 가입을 해주셔서 감사합니다</span></span>
+              </span>
+            </p>
+          </mj-text>
+          <mj-text align="justify" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13" padding-left="25" padding-right="25" padding-bottom="2" padding-top="0">
+            <p><span style="color: rgb(57, 63, 76); line-height: 20px;">솔직히 내가 이거 왜 짜고 있는지는 모르겠지만 글은 누군가가 채워 주실꺼라고 믿고 계속 끄적여 봅니다. </span></p>
+          </mj-text>
+          <mj-button background-color="#c7896f" color="#FFFFFF" font-size="13" align="center" vertical-align="middle" border="none" padding="15px 30px" border-radius="3px" href="https://mjml.io" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"
+            padding-left="25" padding-right="25" padding-bottom="10" padding-top="10">
+            Naver Works
+          </mj-button>
+        </mj-column>
+        <mj-column width="25%" vertical-align="top">
+
+        </mj-column>
+      </mj-section>
+     
+      <mj-section background-color="#ffffff" padding-bottom="20" padding-top="20">
+        <mj-column width="100%" vertical-align="top">
+          <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13" padding-left="25" padding-right="25" padding-bottom="10" padding-top="10">
+            <p>동아리 관련해서 질문이 있으시면</p>
+            <p>운영진에게 연락주십시오 <a href="https://kert.or.kr" style="text-decoration: none; color: inherit;"><span style="font-weight: bold;">support@kert.or.kr</span></a></p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#8bafad" padding-bottom="0" padding-top="0">
+        <mj-column width="33.33333333333333%" vertical-align="top">
+          <mj-image href="https://kert.or.kr" src="https://preview.ibb.co/nGpbLS/KERT_LOGO_2009_white_trans.png" alt="Amario logo" align="center" border="none" width="77" padding-left="25" padding-right="25" padding-bottom="10" padding-top="10">
+
+          </mj-image>
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="top">
+          <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13" padding-left="25" padding-right="25" padding-bottom="10" padding-top="10">
+            <p><a href="https://mjml.io" style="text-decoration: none; color: inherit;"><span style="color: rgb(255, 255, 255);">Privacy policy</span></a></p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="33.33333333333333%" vertical-align="top">
+          <mj-social color="#333333" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13" text-mode="true" facebook-href="[[SHORT_PERMALINK]]" facebook-content=" " twitter-href="[[SHORT_PERMALINK]]" twitter-content=" "
+            google-href="[[SHORT_PERMALINK]]" google-content=" " mode="horizontal" display="facebook twitter google" padding-left="25" padding-right="25" padding-bottom="10" padding-top="10">
+
+          </mj-social>
+        </mj-column>
+      </mj-section>
+      <mj-section locked="true" padding-bottom="20" padding-top="20">
+        <mj-column width="100%" vertical-align="middle">
+          <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="11" locked="true" editable="false" padding-left="25" padding-right="25" padding-bottom="0" padding-top="0">
+            <p style="font-size:11px">[[DELIVERY_INFO]]</p>
+          </mj-text>
+          <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="11" locked="true" editable="true" type="user-address" padding-left="25" padding-right="25" padding-bottom="0" padding-top="0">
+            <p style="font-size:11px">[[POSTAL_ADDRESS]]</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml>
